@@ -13,7 +13,7 @@
   /user/tickets/{id}/message  method:`post` => Answer the ticket<br />
 ### require 
 
-    auth:[your user guard] <br />
+    auth:[your user guard]
     
   *you can change user gourd to your custom guard in `/config/smartticket.php` <br />
   
@@ -23,7 +23,7 @@
   /admin/tickets/{id}/message  method:`post` => Answer the ticket<br />
 ### require 
 
-   auth:[your admin guard] <br />
+   auth:[your admin guard]
   you can change admin gourd to your custom guard in `/config/smartticket.php` <br />
   
   
