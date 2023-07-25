@@ -30,3 +30,6 @@
   *you can change admin gourd to your custom guard in `/config/smartticket.php` <br />
   
   
+## License
+
+The Smart Ticket is open-sourced Package licensed under the [MIT license].
