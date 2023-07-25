@@ -34,7 +34,7 @@
                         
                         @switch($ticket->importance)
                             @case('LOW')
-                                 <span class="badge bg-secondsay">Low</span>
+                                 <span class="badge bg-secondary">Low</span>
                                 @break
                             @case("MIDDLE")
                                  <span class="badge bg-success">Middle</span>
