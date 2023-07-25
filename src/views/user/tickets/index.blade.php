@@ -12,6 +12,9 @@
         <div class="row mt-5 mb-3">
             <h1>Tickets</h1>
         </div>
+        <div class="row mb-3">
+            <a href="{{url('user/tickets/create')}}" class="btn btn-success">New ticket</a>
+        </div>
         <div class="row">
            <table class="table table-bordered">
               <thead class="table-dark">
