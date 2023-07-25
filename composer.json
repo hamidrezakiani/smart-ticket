@@ -5,7 +5,7 @@
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "hamiddj\\smart-ticket\\": "src/"
+            "Hamiddj\\SmartTicket\\": "src/"
         }
     },
     "authors": [
@@ -20,7 +20,7 @@
     "extra": {
         "laravel":{
             "providers":[
-                "hamiddj\\smart-ticket\\SmartTicketServiceProvider"
+                "Hamiddj\\SmartTicket\\SmartTicketServiceProvider"
             ]
         }
     }
