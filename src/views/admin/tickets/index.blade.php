@@ -30,7 +30,7 @@
                      <td style="text-align: center;vertical-align:middle">
                         @switch($ticket->importance)
                             @case('LOW')
-                                 <span class="badge bg-secondsry">Low</span>
+                                 <span class="badge bg-secondary">Low</span>
                                 @break
                             @case("MIDDLE")
                                  <span class="badge bg-success">Middle</span>
